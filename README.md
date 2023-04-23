@@ -6,4 +6,4 @@ https://www.analyticsvidhya.com/blog/2021/07/image-denoising-using-autoencoders-
 https://towardsdatascience.com/denoising-autoencoders-dae-how-to-use-neural-networks-to-clean-up-your-data-cd9c19bc6915
 https://iq.opengenus.org/denoising-autoencoders/
 https://www.tensorflow.org/api_docs/python/tf/keras/datasets/mnist/load_data
-https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art
+https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art#commonly-used-image-quality-metrics
