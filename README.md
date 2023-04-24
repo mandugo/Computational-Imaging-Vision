@@ -1,5 +1,7 @@
 # Computational Imaging and Vision
-Final assessment for **Computational Imaging and Vision** course within the PhD program in Information Engineering of the Department of Information Engineering @ University of Pisa, A.A. 2022/2023
+Final assessment for **Computational Imaging and Vision** course within the PhD program in Information Engineering of the Department of Information Engineering @ University of Pisa, A.A. 2022/2023 \
+\
+The work builds upon the implementation presented in the article titled **"Denoising Autoencoders (DAE) — How To Use Neural Networks to Clean Up Your Data"** [1].
 
 ## References
 [1] S. Dobilas, "Denoising Autoencoders (DAE) — How To Use Neural Networks to Clean Up Your Data", 2022. [Online]. Available: https://towardsdatascience.com/denoising-autoencoders-dae-how-to-use-neural-networks-to-clean-up-your-data-cd9c19bc6915. [Accessed: 24-Apr-2023] \
